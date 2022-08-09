@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2020-10-01",
+    "currencyPair": "JODUSD",
+    "rate": 1.41
+  },
+
+  {
+    "date": "2020-10-01",
+    "currencyPair": "GBPUSD",
+    "rate": 1.33
+  },
+
+  {
+    "date": "2020-10-01",
+    "currencyPair": "EURUSD",
+    "rate": 1.22
+  },
+
+
+  {
+    "date": "2020-10-02",
+    "currencyPair": "JODUSD",
+    "rate": 1.42
+  },
+
+  {
+    "date": "2020-10-02",
+    "currencyPair": "GBPUSD",
+    "rate": 1.32
+  }
+]
